@@ -1,6 +1,6 @@
 # FusionPBX App Enhanced Dialplan Editor
 
-This is a custom dialplan editor tool to give the ability to use nested conditionals, Side-by-side to the XML generated. This started out as a main project item but was rejected for use in the project, I have started to move this in to a dedicated side project application. More updates will come in the future.
+This is a custom dialplan editor tool to give the ability to use nested conditionals, Side-by-side to the XML generated. This started out as a main project item and is *under consideration* for use in the project. I have started to move this in to a dedicated side project application. More updates will come in the future.
 
 #### Install
 
